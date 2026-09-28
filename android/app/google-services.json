@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "636982649221",
+    "firebase_url": "https://smartcity-f4179-default-rtdb.firebaseio.com",
+    "project_id": "smartcity-f4179",
+    "storage_bucket": "smartcity-f4179.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636982649221:android:aec4a751801ac7e9e9e4ec",
+        "android_client_info": {
+          "package_name": "com.example.glumate_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpTTosn5_0d3xEcwPSxvDMaKZBPbE-Blg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
